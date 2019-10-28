@@ -1,4 +1,8 @@
-# My-Quote-Book
-Let's see how far we get. 
+# Chad Bot 
 
-Sure thing.
+Task List: 
+- Decide a tech stack for development
+- Set up a team account on AWS 
+- Research CI/CD pipeline ?
+- Research AWS Lex
+- TBD
